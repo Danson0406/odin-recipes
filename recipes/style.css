@@ -1,0 +1,27 @@
+body {
+    background-color: antiquewhite;
+    width: 500px;
+    margin: auto;
+}
+
+img {
+    box-sizing: border-box;
+    padding: 50px;
+    width: 500px;
+    height: 250;
+}
+
+h1 {
+    color: salmon;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
+    border: 1px rgb(#fff);
+    width: 500px;
+    margin-bottom: -20px;
+}
+
+h2 {
+    margin-top: -10px;
+}
